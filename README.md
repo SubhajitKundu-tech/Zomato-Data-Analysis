@@ -1,6 +1,3 @@
-# Zomato-Data-Analysis
-Exploratory Data Analysis and Regression Modeling on Zomato Restaurant Dataset
-
 # Zomato Data Analysis Project
 
 ## Project Overview
